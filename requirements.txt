@@ -1,0 +1,5 @@
+# Week 11 - Python 3.11+
+google-genai
+python-dotenv
+pandas
+pytest
